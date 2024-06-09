@@ -1,0 +1,84 @@
+.main {
+    width: 100%;
+    min-height: calc(100vh - 59px);
+    display: flex;
+    align-items: center;
+    background-color: #0D0E23; 
+}
+
+.main h2 {
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+.main .main-img{
+    width: 300px;
+    height: 300px;
+}
+@media (max-width: 767px) {
+    .main .main-img {
+        width: 200px;
+        height: 200px;
+    }
+}
+.main .intro  p {
+    margin-top: 10px;
+    color: #4e9eff;
+    font-weight: 600;
+    font-size: 2em;
+}
+@media (min-width:992px){
+    .main .intro p{
+        font-size: 4em;
+    }
+}
+/* .main h3 {
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+@media (min-width:992px){
+    .main h3{
+        font-size: 2em;
+    }
+} */
+.main-btn {
+    color: #fff;
+    background-color: #3a6cf4;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.7s ease;
+}
+
+.main-btn:hover {
+    background-color: #0a49f6;
+    transform: scale(1.1);
+}
+.social-icons a {
+    color: #fff;
+    font-size: 1.7em;
+    padding-right: 20px;
+}
+
+.social-icons a:hover i{
+    transition: transform .7s;
+    transform: scale(1.7);
+}
+.social-icons a.mail:hover i {
+    color: #EA4335;
+}
+.social-icons a.face:hover i {
+    color: #0866FF;
+}
+.social-icons a.linked:hover i {
+    color: #0A66C2;
+}

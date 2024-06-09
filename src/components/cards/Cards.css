@@ -1,0 +1,42 @@
+.title {
+    text-align: center;
+    color: #3a6cf4;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.cards .content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 15px;
+}
+.card {
+    background-color: #fff;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 10px;
+    padding: 15px;
+    transition: 0.7s ease;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.card .icon {
+    max-width: 40%;
+    text-align: center;
+    margin: auto;
+}
+.card .icon img {
+    max-width: 100%;
+}
+.info {
+    text-align: center;
+}
+
+.info h3{
+    color: #3a6cf4;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
+}
