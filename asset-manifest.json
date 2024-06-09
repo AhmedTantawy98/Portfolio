@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.31c795da.css",
+    "main.js": "/Portfolio/static/js/main.acb2da76.js",
+    "static/media/markus-spiske-Fa0pTKuoDVY-unsplash.jpg": "/Portfolio/static/media/markus-spiske-Fa0pTKuoDVY-unsplash.f0f5686daa8a8fceec19.jpg",
+    "static/media/matthew-fournier-5NM32v14n6M-unsplash.jpg": "/Portfolio/static/media/matthew-fournier-5NM32v14n6M-unsplash.db411654a13830ff5bdb.jpg",
+    "static/media/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg": "/Portfolio/static/media/fotis-fotopoulos-DuHKoV44prg-unsplash.6bb70f0c99724c4c0b24.jpg",
+    "static/media/clement-helardot-95YRwf6CNw8-unsplash.jpg": "/Portfolio/static/media/clement-helardot-95YRwf6CNw8-unsplash.66604cb1404b6300619c.jpg",
+    "static/media/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg": "/Portfolio/static/media/shahadat-rahman-BfrQnKBulYQ-unsplash.8988079659455bc3f40d.jpg",
+    "static/media/ilya-pavlov-OqtafYT5kTw-unsplash.jpg": "/Portfolio/static/media/ilya-pavlov-OqtafYT5kTw-unsplash.9ba0183330fc2d77497a.jpg",
+    "static/media/IMG_20230425_193813_859.jpg": "/Portfolio/static/media/IMG_20230425_193813_859.7d7b81fe45ddb0e327f1.jpg",
+    "static/media/www_1150626.png": "/Portfolio/static/media/www_1150626.75d48f8b8f1f90285292.png",
+    "static/media/web_3178285.png": "/Portfolio/static/media/web_3178285.8035babc39d5681992bf.png",
+    "static/media/online-presence_12914661.png": "/Portfolio/static/media/online-presence_12914661.77190a103e2ab662727b.png",
+    "static/media/domain_2328976.png": "/Portfolio/static/media/domain_2328976.fdf45370f4b690b266e4.png",
+    "static/media/ux_1055666.png": "/Portfolio/static/media/ux_1055666.ffa3e0dd754dc923e50b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.31c795da.css.map": "/Portfolio/static/css/main.31c795da.css.map",
+    "main.acb2da76.js.map": "/Portfolio/static/js/main.acb2da76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c795da.css",
+    "static/js/main.acb2da76.js"
+  ]
+}
